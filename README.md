@@ -1,4 +1,5 @@
 # README
+# git連携テスト（確認できたら消す）
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
